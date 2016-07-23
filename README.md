@@ -1,1 +1,1 @@
-# COMP397-S2016-MailPilotBuild for Centennial College
+# COMP397-S2016-MailPilotBuild _ TEST START _ 07/23/2016
